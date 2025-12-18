@@ -1,0 +1,7 @@
+order_id,delivery_status,logistics_provider,warehouse,processing_time
+1001,delivered,FedEx,WH001,48
+1002,in_transit,UPS,WH002,24
+1003,delivered,DHL,WH001,36
+1004,pending,FedEx,WH003,12
+1005,delivered,UPS,WH002,42
+

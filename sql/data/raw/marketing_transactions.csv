@@ -1,0 +1,7 @@
+transaction_date,campaign_id,order_id,estimated_arrival,availed
+2024-01-15,1,1001,2024-01-20,true
+2024-01-16,2,1002,2024-01-21,false
+2024-01-17,1,1003,2024-01-22,true
+2024-01-18,,1004,2024-01-23,false
+2024-01-19,3,1005,2024-01-24,true
+
